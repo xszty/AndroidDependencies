@@ -14,7 +14,7 @@ ext{
     //QMUI
     qmuim = "com.qmuiteam:qmui:1.2.0"
 
-    // Retrofitåº“
+    // Retrofitåº?
     retrofit = "com.squareup.retrofit2:retrofit:2.5.0"
     retrofit_rxjava2 = "com.squareup.retrofit2:adapter-rxjava2:2.5.0"
 
@@ -52,6 +52,6 @@ ext{
     eventbus = "org.greenrobot:eventbus:3.+"
 
     //Dialog
-    dialog = "com.github.xszty:NiceCuteDialog:v1.0.4"
+    dialog = "com.github.xszty:NiceCuteDialog:v1.1"
 
 }
