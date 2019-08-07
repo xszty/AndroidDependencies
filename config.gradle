@@ -53,5 +53,8 @@ ext{
 
     //Dialog
     dialog = "com.github.xszty:NiceCuteDialog:v1.1"
+	
+//recovery
+recovery = "com.zxy.android:recovery:1.0.0"
 
 }
