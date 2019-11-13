@@ -1,4 +1,4 @@
-ext{
+﻿ext{
     //v7
     support_v7 = "com.android.support:appcompat-v7:28.0.0"
 
@@ -23,6 +23,13 @@ ext{
     //rxjava
     rxjava = "com.squareup.retrofit2:converter-gson:2.5.0"
     rxjava_android = "io.reactivex.rxjava2:rxandroid:2.1.1"
+
+    //dagger
+    dagger = "com.google.dagger:dagger:2.24"
+    dagger_compiler = "com.google.dagger:dagger-compiler:2.24"
+    dagger_android = "com.google.dagger:dagger-android:2.24"
+    dagger_support = "com.google.dagger:dagger-android-support:2.24"
+    dagger_processor =  "com.google.dagger:dagger-android-processor:2.24"
 
     //rxandroid
     rxandroid = "com.squareup.okhttp3:logging-interceptor:3.9.1"
