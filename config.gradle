@@ -61,7 +61,7 @@
     eventbus = "org.greenrobot:eventbus:3.+"
 
     //Dialog
-    dialog = "com.github.xszty:NiceCuteDialog:v1.1.1"
+    dialog = "com.github.xszty:NiceCuteDialog:v1.1.6"
 	
     //崩溃处理recovery
     recovery = "com.zxy.android:recovery:1.0.0"
